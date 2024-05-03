@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/vactrack-dashboard/static/css/main.9777cf49.css",
-    "main.js": "/vactrack-dashboard/static/js/main.b12c43c3.js",
+    "main.js": "/vactrack-dashboard/static/js/main.77d951b2.js",
     "static/js/9680.2fcc0377.chunk.js": "/vactrack-dashboard/static/js/9680.2fcc0377.chunk.js",
-    "static/js/4721.053e0f18.chunk.js": "/vactrack-dashboard/static/js/4721.053e0f18.chunk.js",
-    "static/js/1557.f3d9b1fb.chunk.js": "/vactrack-dashboard/static/js/1557.f3d9b1fb.chunk.js",
-    "static/js/8239.71c12dce.chunk.js": "/vactrack-dashboard/static/js/8239.71c12dce.chunk.js",
-    "static/js/1541.a735ceef.chunk.js": "/vactrack-dashboard/static/js/1541.a735ceef.chunk.js",
+    "static/js/4721.2f30c50c.chunk.js": "/vactrack-dashboard/static/js/4721.2f30c50c.chunk.js",
+    "static/js/1557.e9c214c8.chunk.js": "/vactrack-dashboard/static/js/1557.e9c214c8.chunk.js",
+    "static/js/8239.c3fb7b5b.chunk.js": "/vactrack-dashboard/static/js/8239.c3fb7b5b.chunk.js",
+    "static/js/1541.d1a389c8.chunk.js": "/vactrack-dashboard/static/js/1541.d1a389c8.chunk.js",
     "static/js/3181.e352b794.chunk.js": "/vactrack-dashboard/static/js/3181.e352b794.chunk.js",
     "static/js/7481.817f85b1.chunk.js": "/vactrack-dashboard/static/js/7481.817f85b1.chunk.js",
     "static/js/113.c0324e7d.chunk.js": "/vactrack-dashboard/static/js/113.c0324e7d.chunk.js",
@@ -71,7 +71,7 @@
     "static/js/1052.471996a0.chunk.js": "/vactrack-dashboard/static/js/1052.471996a0.chunk.js",
     "static/css/6582.ed60d3bd.chunk.css": "/vactrack-dashboard/static/css/6582.ed60d3bd.chunk.css",
     "static/js/9942.c35a166d.chunk.js": "/vactrack-dashboard/static/js/9942.c35a166d.chunk.js",
-    "static/js/8521.ca5a5f22.chunk.js": "/vactrack-dashboard/static/js/8521.ca5a5f22.chunk.js",
+    "static/js/8521.52283495.chunk.js": "/vactrack-dashboard/static/js/8521.52283495.chunk.js",
     "static/media/react.jpg": "/vactrack-dashboard/static/media/react.83088efde08a5dedde9f.jpg",
     "static/media/vue.jpg": "/vactrack-dashboard/static/media/vue.8a74d93fde1a02c24730.jpg",
     "static/media/angular.jpg": "/vactrack-dashboard/static/media/angular.2f3764e2ec8b0b47ebe6.jpg",
@@ -85,12 +85,12 @@
     "static/media/6.jpg": "/vactrack-dashboard/static/media/6.edefb235566ed72a7429.jpg",
     "index.html": "/vactrack-dashboard/index.html",
     "main.9777cf49.css.map": "/vactrack-dashboard/static/css/main.9777cf49.css.map",
-    "main.b12c43c3.js.map": "/vactrack-dashboard/static/js/main.b12c43c3.js.map",
+    "main.77d951b2.js.map": "/vactrack-dashboard/static/js/main.77d951b2.js.map",
     "9680.2fcc0377.chunk.js.map": "/vactrack-dashboard/static/js/9680.2fcc0377.chunk.js.map",
-    "4721.053e0f18.chunk.js.map": "/vactrack-dashboard/static/js/4721.053e0f18.chunk.js.map",
-    "1557.f3d9b1fb.chunk.js.map": "/vactrack-dashboard/static/js/1557.f3d9b1fb.chunk.js.map",
-    "8239.71c12dce.chunk.js.map": "/vactrack-dashboard/static/js/8239.71c12dce.chunk.js.map",
-    "1541.a735ceef.chunk.js.map": "/vactrack-dashboard/static/js/1541.a735ceef.chunk.js.map",
+    "4721.2f30c50c.chunk.js.map": "/vactrack-dashboard/static/js/4721.2f30c50c.chunk.js.map",
+    "1557.e9c214c8.chunk.js.map": "/vactrack-dashboard/static/js/1557.e9c214c8.chunk.js.map",
+    "8239.c3fb7b5b.chunk.js.map": "/vactrack-dashboard/static/js/8239.c3fb7b5b.chunk.js.map",
+    "1541.d1a389c8.chunk.js.map": "/vactrack-dashboard/static/js/1541.d1a389c8.chunk.js.map",
     "3181.e352b794.chunk.js.map": "/vactrack-dashboard/static/js/3181.e352b794.chunk.js.map",
     "7481.817f85b1.chunk.js.map": "/vactrack-dashboard/static/js/7481.817f85b1.chunk.js.map",
     "113.c0324e7d.chunk.js.map": "/vactrack-dashboard/static/js/113.c0324e7d.chunk.js.map",
@@ -155,10 +155,10 @@
     "1052.471996a0.chunk.js.map": "/vactrack-dashboard/static/js/1052.471996a0.chunk.js.map",
     "6582.ed60d3bd.chunk.css.map": "/vactrack-dashboard/static/css/6582.ed60d3bd.chunk.css.map",
     "9942.c35a166d.chunk.js.map": "/vactrack-dashboard/static/js/9942.c35a166d.chunk.js.map",
-    "8521.ca5a5f22.chunk.js.map": "/vactrack-dashboard/static/js/8521.ca5a5f22.chunk.js.map"
+    "8521.52283495.chunk.js.map": "/vactrack-dashboard/static/js/8521.52283495.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9777cf49.css",
-    "static/js/main.b12c43c3.js"
+    "static/js/main.77d951b2.js"
   ]
 }
