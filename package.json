@@ -66,6 +66,7 @@
     "eslint-plugin-prettier": "^4.2.1",
     "eslint-plugin-react": "^7.34.1",
     "eslint-plugin-use-decorator": "^0.2.0",
+    "gh-pages": "^6.1.1",
     "prettier": "2.8.8",
     "react-scripts": "5.0.1",
     "sass": "1.63.6",
